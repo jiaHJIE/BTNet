@@ -1,6 +1,4 @@
 """
-BTNet: Depth Reliability-Aware Dual-Stage Network for RGB-D Salient Object Segmentation
-论文复现实现 - PyTorch
 
 结构：
   DualBranchEncoder (Swin-T + 轻量深度编码器)
